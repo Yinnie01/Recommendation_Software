@@ -1,10 +1,11 @@
 
 
 body_fit = {'Maternity': set(['Tops', 'Jeans Trousers', 'Accessories', 'Footwear']), 
-            'Curve and plus size': set(['Dresses', 'Tops','Accessories', 'Skirts', 'Footwear']),
-            'Petite': set(['Dresses', 'Tops','Accessories', 'Footwear']), 
-            'Tall': set(['Skirts', 'Jeans Trousers','Accessories', 'Tops','Footwear']), 
-            'Hourglass': set(['Jeans Trousers', 'Tops', 'Accessories', 'Footwear'])}
+            'Curve and plus size': set(['Dresses', 'Tops','Accessories', 'Skirts', 'Footwear', 'bags']),
+            'Petite': set(['Dresses', 'Tops','Accessories', 'Footwear', 'bags']), 
+            'Tall': set(['Skirts', 'Jeans Trousers','Accessories', 'Tops','Footwear', 'bags']), 
+            'Hourglass': set(['Jeans Trousers', 'Tops', 'Accessories', 'Footwear', 'bags'])}
+
 
 cloth_categories = {'Bags': set({'Backpacks': [{'Design': 'ASOS DESIGN soft backpack with zip', 'Color': 'Black', 'Price': 'USD 38.00'}, 
                                                {'Design': 'BASIC PLEASURE drawstring backpack', 'Color': 'Khaki', 'Price': 'USD 42.64'}], 
