@@ -580,10 +580,10 @@ jipsy_skirts_2.add_child(jipsy_skirts_design_2, jipsy_skirts_color_2, jipsy_skir
 
 
 
-print(bags)
-print(dresses)
-print(footwear)
-print(accessories)
-print(tops)
-print(skirts)
-print(jeans_trousers)
+# print(bags)
+# print(dresses)
+# print(footwear)
+# print(accessories)
+# print(tops)
+# print(skirts)
+# print(jeans_trousers)
