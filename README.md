@@ -1,8 +1,8 @@
-# Clothing Store Recommendation Software
+# Clothing Store Recommendation Software Algorithm
 
 ## Project Overview
 
-This project aims to develop an advanced Clothing Store Recommendation Software designed to enhance the shopping experience for users by providing tailored clothing suggestions based on their unique preferences. By leveraging sophisticated algorithms, this application delivers personalized recommendations that align closely with individual tastes, body types, and style choices.
+This project aims to develop an advanced Clothing Store Recommendation Software algorithm to enhance the shopping experience for users by providing tailored clothing suggestions based on their unique preferences. By leveraging sophisticated algorithms, this application delivers personalized recommendations that align closely with individual tastes, body types, and style choices.
 
 ## Features
 
